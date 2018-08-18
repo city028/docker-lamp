@@ -1,3 +1,8 @@
+I have forked this because I am creating a Dockerimage based upon this one for vFront, more coming soon
+===========
+
+
+
 fauria/lamp
 ==========
 
